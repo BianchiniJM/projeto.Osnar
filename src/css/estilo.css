@@ -76,7 +76,7 @@ body{
 
 .home .informacoes p{
     font-family: "Raleway",sans-serif;
-    font-size: 24px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
@@ -116,6 +116,13 @@ body{
     font-family: "Raleway", sans-serif;
     font-size: 15px;
     align-items: center;
+}
+
+.sobre p{
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    text-align:justify;
+
 }
 .sobre h2{
     color:aquamarine   
